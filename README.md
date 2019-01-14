@@ -1,24 +1,24 @@
 # discoGAN
 
-## Overview
+## 개요
 
-This is the code for [this](https://youtu.be/MgdAe-T8obE) video on Youtube by Siraj Raval as part of the Udacity Deep Learning nanodegree. We're going to use a relatively new variant of the generative adversarial network called the [discogan](https://arxiv.org/abs/1703.05192). This will allow us to perfrom style transfer, that is generate an image in the style of another. Very cool stuff. 
+Siraj Raval 의 "Udacity Deep Learning nanodegree" 의 일부인 유투브 [영상](https://youtu.be/MgdAe-T8obE)에 대한 코드입니다. 우리는 생성적 적대 신경망의 상대적으로 최신 변형인 [discogan](https://arxiv.org/abs/1703.05192)을 사용할 것입니다.이것을 통해 다른 이미지의 스타일로 이미지를 생성할 수 있는 스타일 트랜스퍼를 실행할 수 있습니다.
 
-## Dependencies
+## 종속성
 
-* tensorflow
+* 텐서플로우
 * matplotlib
 * numpy
 * tqdm
 
-install dependencies using [pip](https://pip.pypa.io/en/stable/)
+[pip](https://pip.pypa.io/en/stable/)를 이용해 설치
 
-## Usage
+## 사용법
 
-run `jupyter notebook` in terminal to see the code pop up in your browser
+터미널에서 `jupyter notebook` 를 실행하면 브라우저에 코드가 나타납니다
 
-install juypter [here](http://jupyter.readthedocs.io/en/latest/install.html) if you don't have it. 
+juypter 가 없다면 [이곳](http://jupyter.readthedocs.io/en/latest/install.html)에서 설치할 수 있습니다. 
 
-## Credits
+## 참조
 
-The credits for this code go to [chunyuan](https://github.com/ChunyuanLI/DiscoGAN) i've merely created a wrapper to get people started. 
+이 코드는 [chunyuan](https://github.com/ChunyuanLI/DiscoGAN)의 코드를 알기 쉽게 편성한 것입니다. 
