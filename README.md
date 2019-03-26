@@ -19,6 +19,9 @@ Siraj Raval 의 "Udacity Deep Learning nanodegree" 의 일부인 유투브 [영�
 
 juypter 가 없다면 [이곳](http://jupyter.readthedocs.io/en/latest/install.html)에서 설치할 수 있습니다. 
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://github.com/edwithschoolofai/GANS-for-style-transfer/blob/master/demo2.ipynb)
+
 ## 참조
 
 이 코드는 [chunyuan](https://github.com/ChunyuanLI/DiscoGAN)의 코드를 알기 쉽게 편한 것입니다. 
